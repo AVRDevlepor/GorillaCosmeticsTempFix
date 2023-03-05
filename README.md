@@ -1,4 +1,4 @@
-# Gorilla Cosmetics
+# Gorilla Cosmetics (TEMP FIX!)
 
 A PC cosmetic mod for Gorilla Tag that allows customizing the look of gorillas with materials and hats.
 
